@@ -17,7 +17,7 @@
 
 ## Prework
 
-![more-linked-lists](./more-linked-lists.png)
+![more-linked-lists](./more-linked-lists.jpg)
 
 Pretty simple stuff especially after the previous problems.
 The results will be a list in order to keep order (again, no pun intended).
